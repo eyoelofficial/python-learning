@@ -1,0 +1,17 @@
+[
+ {
+  "name": "Rice",
+  "price": 180,
+  "stock": 60
+ },
+ {
+  "name": "Beef",
+  "price": 650,
+  "stock": 20
+ },
+ {
+  "name": "milk",
+  "price": 90,
+  "stock": 45
+ }
+]
